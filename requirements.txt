@@ -1,0 +1,6 @@
+numpy==1.19.2
+scikit-learn
+matplotlib==3.0.3
+pandas
+nltk
+scipy
